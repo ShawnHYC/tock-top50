@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+twstock
+urllib3
+beautifulsoup4
